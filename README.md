@@ -1,0 +1,2 @@
+# Osint-termux
+For Newbie
